@@ -2,6 +2,6 @@ class Movie {
     String title;
     String description;
     String director;
-    double rating;
+    int rating;
     boolean oscars;
 }
